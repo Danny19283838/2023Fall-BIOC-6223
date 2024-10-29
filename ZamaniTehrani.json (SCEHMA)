@@ -1,6 +1,6 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema#",
-    "$id": "https://github.com/yourusername/yourrepository/raw/branch/genes_schema.json", 
+    "$id": "https://raw.githubusercontent.com/Danny19283838/2023Fall-BIOC-6223/refs/heads/main/ZamaniTehrani.json%20(SCEHMA)", 
     "type": "array",
     "title": "GenBank Genes Data",
     "description": "Schema for validating gene data from GenBank",
