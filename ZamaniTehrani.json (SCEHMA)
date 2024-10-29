@@ -9,15 +9,15 @@
         "properties": {
             "accession": {
                 "type": "string",
-                "description": "Accession number of the gene, e.g., NG_007504.2, NM_000546.5, NM_001354573.1"
+                "description": "Accession number of the gene, NG_007504.2, NM_000546.5, NM_001354573.1"
             },
             "name": {
                 "type": "string",
-                "description": "Gene name, e.g., SHH, TP53, BRCA1"
+                "description": "Gene name, SHH, TP53, BRCA1"
             },
             "length": {
                 "type": "integer",
-                "description": "Gene length in base pairs, e.g., 19290, 2022, 5731"
+                "description": "Gene length in base pairs, 19290, 2022, 5731"
             }
         },
         "required": ["accession", "name", "length"]
